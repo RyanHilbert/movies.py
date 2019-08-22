@@ -1,0 +1,563 @@
+{
+  "action": [
+    {
+      "title": "hunger games",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "The Dark Knight",
+      "rating": 10,
+      "cost": 2
+    },
+    {
+      "title": "angel has fallen",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "First Blood",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "The Fast & The Furious",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "John Wick",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "Avengers Endgame",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "Timecop",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "Mission Impossible",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "Casino Royale",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "The Equalizer",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "Dunkirk",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "Sicario",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "Fury",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "Kill Bill",
+      "rating": 8,
+      "cost": 3
+    }
+  ],
+  "comedy": [
+    {
+      "title": "mary poppins",
+      "rating": 9,
+      "cost": 4
+    },
+    {
+      "title": "the art of racing in the rain",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "the hangover",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "the peanut butter falcon",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "wedding crashers",
+      "rating": 6,
+      "cost": 3
+    },
+    {
+      "title": "the secret life of pets",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "rush hour",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "meet the parents",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "zoolander",
+      "rating": 9,
+      "cost": 2
+    },
+    {
+      "title": "the goonies",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "about time",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "dumb and dumber",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "four weddings and a funeral",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "guardians of the galaxy",
+      "rating": 7,
+      "cost": 4
+    }
+  ],
+  "documentary": [
+    {
+      "title": "planet earth",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "ice on fire",
+      "rating": 9,
+      "cost": 2
+    },
+    {
+      "title": "our planet",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "chernobyl",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "cosmos",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "making a murderer",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "senna",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "sound city",
+      "rating": 10,
+      "cost": 4
+    }
+  ],
+  "drama": [
+    {
+      "title": "lord of the rings",
+      "rating": 10,
+      "cost": 4
+    },
+    {
+      "title": "schindler's list",
+      "rating": 10,
+      "cost": 4
+    },
+    {
+      "title": "the green mile",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "gladiator",
+      "rating": 9,
+      "cost": 4
+    },
+    {
+      "title": "the godfather",
+      "rating": 10,
+      "cost": 4
+    },
+    {
+      "title": "the pianist",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "whiplash",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "saving private ryan",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "cast away",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "the prestige",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "the machinist",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "good will hunting",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "casino",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "my fair lady",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "rocky",
+      "rating": 8,
+      "cost": 3
+    }
+  ],
+  "horror": [
+    {
+      "title": "psycho",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "the shining",
+      "rating": 10,
+      "cost": 2
+    },
+    {
+      "title": "halloween",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "a nightmare on elm street",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "friday the 13th",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "scream",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "poltergeist",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "frankenstein",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "hellraiser",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "dracula",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "the omen",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "the birds",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "vertigo",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "it",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "saw",
+      "rating": 8,
+      "cost": 3
+    }
+  ],
+  "romance": [
+    {
+      "title": "pride and predjudice",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "la la land",
+      "rating": 10,
+      "cost": 2
+    },
+    {
+      "title": "the notebook",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "romeo and juliet",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "when harry met sally",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "you've got mail",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "west side story",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "dirty dancing",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "titanic",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "before sunrise",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "gone with the wind",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "ghost",
+      "rating": 8,
+      "cost": 4
+    }
+  ],
+  "scifi": [
+    {
+      "title": "The Terminator",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "Star Wars: The Empire Strikes Back",
+      "rating": 10,
+      "cost": 2
+    },
+    {
+      "title": "blade runner",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "looper",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "back to the future",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "the matrix",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "ex machina",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "inception",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "2001: a space odyssey",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "interstellar",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "tron",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "minority report",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "robocop",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "moon",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "edge of tomorrow",
+      "rating": 8,
+      "cost": 3
+    }
+  ],
+  "thriller": [
+    {
+      "title": "heat",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "batman begins",
+      "rating": 10,
+      "cost": 2
+    },
+    {
+      "title": "the departed",
+      "rating": 5,
+      "cost": 4
+    },
+    {
+      "title": "the bourne identity",
+      "rating": 6,
+      "cost": 4
+    },
+    {
+      "title": "the silence of the lambs",
+      "rating": 5,
+      "cost": 2
+    },
+    {
+      "title": "the fugitive",
+      "rating": 8,
+      "cost": 2
+    },
+    {
+      "title": "chinatown",
+      "rating": 7,
+      "cost": 3
+    },
+    {
+      "title": "the usual suspects",
+      "rating": 6,
+      "cost": 2
+    },
+    {
+      "title": "insomnia",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "the girl with the dragon tattoo",
+      "rating": 9,
+      "cost": 3
+    },
+    {
+      "title": "captain phillips",
+      "rating": 7,
+      "cost": 4
+    },
+    {
+      "title": "ronin",
+      "rating": 8,
+      "cost": 4
+    },
+    {
+      "title": "blood diamond",
+      "rating": 8,
+      "cost": 3
+    },
+    {
+      "title": "reservoir dogs",
+      "rating": 7,
+      "cost": 2
+    },
+    {
+      "title": "taken",
+      "rating": 8,
+      "cost": 3
+    }
+  ]
+}

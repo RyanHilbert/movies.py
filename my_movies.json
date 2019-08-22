@@ -1,0 +1,10 @@
+{
+  "scifi": [
+    {
+      "title": "The Terminator",
+      "rating": 9,
+      "watched": false,
+      "cost": 3
+    }
+  ]
+}
