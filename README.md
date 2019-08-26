@@ -1,4 +1,4 @@
-# Chisel Software Engineer Assessment for HackerX
+# HackerX Code Challenge
 
 Create an application using any of Python, Java, Javascript (Node), that allows users to view and purchase movies.
 
