@@ -64,8 +64,19 @@ display the string "no movies found matching <search_term>". The user is then re
 If a match or matches are found, these are shown to the user. The user can then chose one of movies in the results to purchase.
 
 ## Documentation
+Execute movies.py with Python 3.7 or higher to start the application. It should function with earlier versions
+of Python 3, but movies may not appear sorted correctly, since this was implemented using the guarantee that dictionaries
+remain sorted by insertion order, which was not mandated until release 3.7.
 
-Please modify README.md to add instructions on how to run your application, especially if you are using Python libraries that are not built-in.
+The application follows the above specifications as closely as possible. Some assumptions made include:
+1. Missing files are treated as empty json data to allow for simple testing through deletion of my_movies.json
+2. Genres are displayed in title case as per the example, despite being lowercase in json data
+3. Movie titles are displayed as they appear in json data, since there is no way to programmatically determine correct title capitalization in the general case
+4. In main menu option 2 (show my movies), movies are displayed as the example, but with cost replaced by watched
+5. In main menu option 5 (list in genre), movies are displayed as the example
+6. In main menu option 6 (movie search), movies are displayed in a compact form for ease of selection
+7. The program terminates when given an invalid index on the main menu; all other logic paths return to the main menu after completion unless an unexpected error occurs, such as encountering malformed json files
+8. Menu options are selected via their integer index; selection via genre / title is also supported for the 2 optional functions (list in genre & movie search)
 
 ## Submission Instructions
 1. Clone the repository.
